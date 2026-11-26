@@ -19,14 +19,13 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/Kathmandu%2C%20Nepal-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Location" />
-  <img src="https://img.shields.io/badge/IOE%20Thapathali%20%7C%203.77%20GPA-1E3A8A?style=for-the-badge&logo=academia&logoColor=white" alt="Education" />
 </p>
 
 ---
 
 ### About Me
 
-I am an **Electronics, Communication & Information Engineering** undergraduate at **Thapathali Campus, IOE (Tribhuvan University)** *(CGPA: 3.77/4.00, Top 5% of Cohort)* building end-to-end systems across **digital hardware architecture (Verilog/RTL)**, **low-power embedded systems (ESP32/FreeRTOS/PCB)**, and **applied machine learning (CNNs, Siamese Networks, XGBoost)**.
+I am an **Electronics, Communication & Information Engineering** undergraduate at **Thapathali Campus, IOE (Tribhuvan University)** building end-to-end systems across **digital hardware architecture (Verilog/RTL)**, **low-power embedded systems (ESP32/FreeRTOS/PCB)**, and **applied machine learning (CNNs, Siamese Networks, XGBoost)**.
 
 - **Hardware & Silicon:** Designed a custom **16-bit single-cycle Harvard RISC processor** from scratch in Verilog HDL.
 - **Funded Research & Impact:** Principal Student Investigator of a **US $1,420 IEEE EPICS/IMS Grant** building an autonomous solar-powered river monitoring buoy.
